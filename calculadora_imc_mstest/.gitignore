@@ -1,0 +1,46 @@
+# Arquivos gerados pelo Visual Studio
+*.suo
+*.user
+*.userprefs.xml
+*.vs
+*.vcxproj.user
+*.vcxproj.filters
+*.pidb
+*.ipch
+*.sdf
+*.dbmdl
+
+# Arquivos de depuração
+*.pdb
+*.ilk
+*.obj
+*.ipch
+*.ncb
+*.tlog
+*.bsc
+
+# Arquivos temporários
+*.tmp
+*.bak
+*~
+
+# Arquivos de configuração
+*.config
+*.props
+*.targets
+
+# Arquivos de perfil
+*.perf
+
+# Arquivos de análise
+*.analyzer
+
+# Arquivos de profiler
+*.vsp
+
+# Arquivos de cache
+*.cache
+
+# Arquivos de build
+**/bin/**
+**/obj/**
